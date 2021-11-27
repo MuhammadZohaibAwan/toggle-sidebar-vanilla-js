@@ -73,6 +73,11 @@ body {
   line-height: 1.5;
   font-size: 0.875rem;
 }
+
+.central-heading{
+textalign:center;
+}
+
 ul {
   list-style-type: none;
 }
